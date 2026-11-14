@@ -1,0 +1,12 @@
+PROJECT_NAME           = "Лабораторная работа №1 (ООП)"
+OUTPUT_LANGUAGE        = Russian
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+INPUT                  = matrix multiset
+RECURSIVE              = YES
+FILE_PATTERNS          = *.h *.cpp
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+HAVE_DOT               = NO
+QUIET                  = YES
